@@ -1,0 +1,35 @@
+.main {
+    padding:40px;
+    font-family:Arial, Helvetica, sans-serif;
+    box-shadow: 5px 5px 7px 5px #622f2f88;
+    padding-left: 12pxpx;
+    align-items: center;
+    background-color: beige;
+
+}
+.main.h1{
+    font-size: 36px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    font-size: 20px;
+    padding: 20px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid #764777;
+
+}
+input[type=submit]{
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    background-color: green;
+    border: none;
+    color:white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+}
